@@ -1,0 +1,1 @@
+This is a folder holding all progress videos and pictures relating to project

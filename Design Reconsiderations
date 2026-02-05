@@ -1,0 +1,24 @@
+Why Freenove ESP32 S3 Wroom Cam Board over the ESP32, ESP32CAM or ESP8266?
+#S3 Wroom over ESP32
+
+#S3 Wroom over ESP32CAM
+- Not enough GPIO pins present
+- Previously allocated 2 functions on 1 pin which deterred the primary function of the project
+
+#S3 Wroom over ESP8266
+- Lack of linear ability to integrate the 
+
+
+
+
+
+
+
+
+Why PIR Sensor over Ultrasonic Sensor?
+- PIR sensor: Best suited for general security, w/ wide area monitoring where people are moving
+- Better for lower power consumption
+
+- Ultrasonic sensor
+
+- False triggers can occur; Failsafe mechanism in place, whereby a delay is set in place

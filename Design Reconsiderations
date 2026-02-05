@@ -6,7 +6,7 @@ Why Freenove ESP32 S3 Wroom Cam Board over the ESP32, ESP32CAM or ESP8266?
 - Previously allocated 2 functions on 1 pin which deterred the primary function of the project
 
 #S3 Wroom over ESP8266
-- Lack of linear ability to integrate the 
+- Lack of linear ability to integrate camera module into system
 
 
 
